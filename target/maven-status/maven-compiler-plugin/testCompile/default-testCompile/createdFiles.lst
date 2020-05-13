@@ -1,0 +1,6 @@
+com\testing\maven\VIP05JunitMaven\PlusAllTests.class
+com\testing\maven\VIP05JunitMaven\AppTest.class
+com\testing\maven\VIP05JunitMaven\LoginJunitTest.class
+com\testing\maven\VIP05JunitMaven\LoginParamTest.class
+com\testing\maven\VIP05JunitMaven\PlusJunitTest.class
+com\testing\maven\VIP05JunitMaven\PlusDoubleTest.class

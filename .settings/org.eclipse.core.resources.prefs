@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//src/main/java=-Dfile.encoding\=UTF-8
+encoding//src/test/java=-Dfile.encoding\=UTF-8
+encoding//src/test/java/com/testing/maven/VIP05JunitMaven/LoginJunitTest.java=UTF-8
+encoding/<project>=-Dfile.encoding\=UTF-8
